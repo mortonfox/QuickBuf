@@ -1,3 +1,8 @@
+This fork solves the problem where reloading the plugin produces error
+messages stating that the plugin hotkey has already been mapped.
+
+-----
+
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=1910
 
 QuickBuf
